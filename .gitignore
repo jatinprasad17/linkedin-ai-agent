@@ -1,0 +1,7 @@
+myenv/
+playwright_user_data/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.DS_Store
