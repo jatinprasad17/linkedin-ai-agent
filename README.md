@@ -1,1 +1,1 @@
-# linkedi-ai-agent
+# linkedin-ai-agent
